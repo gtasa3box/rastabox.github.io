@@ -1,0 +1,28 @@
+header {
+	background-color: #C0C0C0;
+	text-align: center;
+}
+header>p {
+	font-size: 30px;
+	color: #FFFFFF;
+}
+h1 {
+	Color: #606060;
+
+}
+body {background-color: #E0E0E0;}
+img {
+	position: relative;
+	left: : 10px;
+	border: 4px double black;
+
+
+}
+li {
+	font-size: 27px;
+	color:#606060;
+	
+}
+article>p {
+text-align: right;
+}
